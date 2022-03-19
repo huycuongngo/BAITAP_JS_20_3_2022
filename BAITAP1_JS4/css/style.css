@@ -1,0 +1,16 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-group {
+  margin-left: 20px;
+}
+
+.form-control {
+  width: 200px;
+}
+
+
